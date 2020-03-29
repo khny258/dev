@@ -1,0 +1,219 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+div {
+    /* border: 1px black solid; */
+}
+
+/* * {
+    box-sizing: border-box;
+    /* margin: 0;
+    border: 0;} */
+
+#about-me, h3, h4, h1, h5 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#about-me-title, #education-title {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.card, .noborder {
+    border: none;
+    /* max-width: 450px; */
+}
+
+.card-body {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    line-height: 35px;
+    max-width: 980px;
+    max-height: 90%;
+    ;
+}
+
+.card-text {
+    font-size: 24px;
+    margin: 1% 8%;
+    width: 65%;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 6%;
+}
+
+#carousel {
+    max-height: 80%;
+    max-width: auto;
+}
+
+#connect-button {
+    background-color: goldenrod;
+    color: white;
+    font-size: 16px;
+    align-content: center;
+    border: none;
+    border-radius: 50px;
+    padding: 1rem 3rem;
+    margin-left: 10%;
+    /* width: 100px; */
+}
+
+#connect {
+    font-size: 45px;
+    align-content: center;
+    padding: 10px;
+    /* color: black; */
+}
+
+*/ .container {
+    margin: 0 auto;
+    padding: 5%;
+    width: 100%;
+    height: auto;
+}
+
+.contact-info-addresses {
+    /* color: black; */
+    /* width: 500px; */
+    align-content: center;
+}
+
+.contact-form {
+    align-content: center;
+}
+
+.experience-photos {
+    margin-bottom: 5%;
+    margin-right: 5%;
+    padding: 5%;
+}
+
+footer {
+    font-size: 18px;
+    height: 80px;
+    padding-top: 20px;
+}
+
+.inner-card-text {
+    font-size: 16px;
+    margin: 5% 8%;
+    width: 65%;
+}
+
+.image_bar {
+    background-image: url("wallpaper.jpg");
+    background-size: cover;
+    -ms-background-position-x: center;
+    -ms-background-position-y: bottom;
+    background-position: center bottom;
+    margin-top: 4%;
+    width: 100%;
+    height: 800px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.input-container {
+    margin-left: 10%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    max-width: 980px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    resize: vertical;
+}
+
+.jumbotron {
+    background: none;
+    align-content: center;
+    /* font-size: 65px; */
+    margin: 1% 5%;
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+#letsconnect {
+    background: transparent;
+}
+
+.margin {
+    margin: 0 auto;
+}
+
+#my-experience {
+    margin: 8%;
+}
+
+.nav-link {
+    font-size: 18px;
+    color: goldenrod;
+    margin: 4%;
+}
+
+.opaque {
+    background: rgba(29, 31, 29, 0.65);
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.poppins-w {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+*/ #sweet-pic {
+    /* margin: 5%; */
+    max-width: 100%;
+}
+
+.text-block {
+    margin: 0 auto;
+    margin-top: 3%;
+    width: 80%;
+    height: 90%;
+    color: white;
+    border-radius: 15px;
+    /* overflow: scroll; */
+}
+
+#submit-button {
+    float: right;
+    background-color: goldenrod;
+    color: white;
+    font-size: 18px;
+    align-content: center;
+    border: none;
+    border-radius: 20px;
+    padding: 1rem 3rem;
+    margin: 2.5%;
+}
+
+.social-links {
+    margin: 4%;
+}
+
+#tagline {
+    font-size: 24px;
+}
+
+.thumbnail {
+    border-radius: 50%;
+}
+
+.wht-fnt {
+    color: white;
+}
