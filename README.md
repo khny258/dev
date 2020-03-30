@@ -6,4 +6,4 @@ GitHub - https://github.com/khny258
 
 LinkedIn - https://www.linkedin.com/in/huangkenny/
 
-Resume
+Resume - https://drive.google.com/open?id=1gSZWT1VzsNL9Mq9j2Cu2azZJeYmojGk9
